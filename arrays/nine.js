@@ -1,5 +1,4 @@
-
-let eid=[20,30,40]
+let eids=[20,30,40]
 let employees=[
     {ename:'chandu',eid:20,esal:2454,erole:"hr"},
     {ename:'prakash',eid:30,esal:24454,erole:"manger"},
